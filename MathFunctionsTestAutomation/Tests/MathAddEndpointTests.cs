@@ -33,19 +33,8 @@ namespace MathFunctionsTestAutomation.Tests
             };
 
             try {
-                var response = Given()
-                    .ContentType("application/json")
-                    .Body(JsonConvert.SerializeObject(requestBody))
-                    .When()
-                    .Post($"{BaseUrl}/math/add")
-                    .Then()
-                    .StatusCode(200)
-                    .Extract()
-                    .Response();
-
-                var responseContent = await response.Content.ReadAsStringAsync();
+                var responseContent = await SendPostRequest($"{BaseUrl}/math/add", requestBody, 200);
                 var responseBody = JsonConvert.DeserializeObject<dynamic>(responseContent);
-
                 if (responseBody == null)
                 {
                     Logger.Error($"Expected responseBody but responseBody was null.");
@@ -89,17 +78,7 @@ namespace MathFunctionsTestAutomation.Tests
             };
 
             try {
-                var response = Given()
-                    .ContentType("application/json")
-                    .Body(JsonConvert.SerializeObject(requestBody))
-                    .When()
-                    .Post($"{BaseUrl}/math/add")
-                    .Then()
-                    .StatusCode(400)
-                    .Extract()
-                    .Response();
-
-                var responseContent = await response.Content.ReadAsStringAsync();
+                var responseContent = await SendPostRequest($"{BaseUrl}/math/add", requestBody, 400);
 
                 if (responseContent == null)
                 {
@@ -137,20 +116,10 @@ namespace MathFunctionsTestAutomation.Tests
             Logger.Info("Starting Test: Add_400InvalidJSON");
             bool testPassed = true;
 
-            String body = "This is garbage input";
+            String requestBody = "This is garbage input";
 
             try {
-                var response = Given()
-                    .ContentType("application/json")
-                    .Body(JsonConvert.SerializeObject(body))
-                    .When()
-                    .Post($"{BaseUrl}/math/add")
-                    .Then()
-                    .StatusCode(400)
-                    .Extract()
-                    .Response();
-
-                var responseContent = await response.Content.ReadAsStringAsync();
+                var responseContent = await SendPostRequest($"{BaseUrl}/math/add", requestBody, 400);
 
                 if (responseContent == null)
                 {
@@ -178,6 +147,22 @@ namespace MathFunctionsTestAutomation.Tests
                     Logger.Info("Test Add_400InvalidJSON: Failed.");
                 }   
             }
+        }
+
+        private async Task<String> SendPostRequest(string url, object requestBody, int expectedHTTPResponseCode)
+        {
+            var response = Given()
+                .ContentType("application/json")
+                .Body(JsonConvert.SerializeObject(requestBody))
+                .When()
+                .Post(url)
+                .Then()
+                .StatusCode(expectedHTTPResponseCode)
+                .Extract()
+                .Response();
+
+                var responseContent = await response.Content.ReadAsStringAsync();
+                return responseContent;
         }
    }
 }
