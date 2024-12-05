@@ -1,0 +1,747 @@
+2024-12-03 10:51:20.9809 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Testing Base URL: http://localhost:7000/api
+2024-12-03 10:51:20.9889 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Starting Test: Add_ShouldReturnCorrectSum
+2024-12-03 10:51:21.1114 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Add_ShouldReturnCorrectSum: Passed.
+2024-12-03 10:51:21.1117 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Add_ShouldReturnCorrectSum: Test run time: 122 ms
+
+2024-12-03 10:51:21.1129 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Testing Base URL: http://localhost:7000/api
+2024-12-03 10:51:21.1129 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Starting Test: Divide_ShouldReturnCorrectDividend
+2024-12-03 10:51:21.1199 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Divide_ShouldReturnCorrectDividend: Passed.
+2024-12-03 10:51:21.1199 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Divide_ShouldReturnCorrectDividend: Test run time: 6 ms
+
+2024-12-03 10:51:21.1199 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Testing Base URL: http://localhost:7000/api
+2024-12-03 10:51:21.1206 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Starting Test: Multiply_ShouldReturnCorrectProduct
+2024-12-03 10:51:21.1216 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Multiply_ShouldReturnCorrectProduct: Passed.
+2024-12-03 10:51:21.1216 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Multiply_ShouldReturnCorrectProduct: Test run time: 1 ms
+
+2024-12-03 10:51:21.1216 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Testing Base URL: http://localhost:7000/api
+2024-12-03 10:51:21.1216 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Starting Test: Subtract_ShouldReturnCorrectDifference
+2024-12-03 10:51:21.1229 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Subtract_ShouldReturnCorrectDifference: Passed.
+2024-12-03 10:51:21.1229 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Subtract_ShouldReturnCorrectDifference: Test run time: 0 ms
+
+2024-12-03 10:51:21.1241 | INFO | MathFunctionsTestAutomation.Tests.OpenForBusinessTests | Testing Base URL: http://localhost:7000/api
+2024-12-03 10:51:21.1241 | INFO | MathFunctionsTestAutomation.Tests.OpenForBusinessTests | Starting Test: OpenForBusiness
+2024-12-03 10:51:21.1251 | INFO | MathFunctionsTestAutomation.Tests.OpenForBusinessTests | Test OpenForBusiness: Passed
+2024-12-03 10:51:21.1251 | INFO | MathFunctionsTestAutomation.Tests.OpenForBusinessTests | Test OpenForBusiness: Test run time: 0 ms
+
+2024-12-04 06:26:57.5509 | INFO | MathFunctionsTestAutomation.Tests.OpenForBusinessTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 06:26:57.5571 | INFO | MathFunctionsTestAutomation.Tests.OpenForBusinessTests | Starting Test: OpenForBusiness
+2024-12-04 06:26:57.5747 | INFO | MathFunctionsTestAutomation.Tests.OpenForBusinessTests | Test OpenForBusiness: Passed
+2024-12-04 06:26:57.5747 | INFO | MathFunctionsTestAutomation.Tests.OpenForBusinessTests | Test OpenForBusiness: Test run time: 17 ms
+
+2024-12-04 06:28:07.8331 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 06:28:07.8426 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Starting Test: Add_ShouldReturnCorrectSum
+2024-12-04 06:28:07.9491 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Add_ShouldReturnCorrectSum: Passed.
+2024-12-04 06:28:07.9491 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Add_ShouldReturnCorrectSum: Test run time: 106 ms
+
+2024-12-04 06:28:07.9504 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 06:28:07.9504 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Starting Test: Divide_ShouldReturnCorrectDividend
+2024-12-04 06:28:07.9598 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Divide_ShouldReturnCorrectDividend: Passed.
+2024-12-04 06:28:07.9598 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Divide_ShouldReturnCorrectDividend: Test run time: 8 ms
+
+2024-12-04 06:28:07.9601 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 06:28:07.9601 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Starting Test: Multiply_ShouldReturnCorrectProduct
+2024-12-04 06:28:07.9630 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Multiply_ShouldReturnCorrectProduct: Passed.
+2024-12-04 06:28:07.9631 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Multiply_ShouldReturnCorrectProduct: Test run time: 2 ms
+
+2024-12-04 06:28:07.9631 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 06:28:07.9631 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Starting Test: Subtract_ShouldReturnCorrectDifference
+2024-12-04 06:28:07.9657 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Subtract_ShouldReturnCorrectDifference: Passed.
+2024-12-04 06:28:07.9657 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Subtract_ShouldReturnCorrectDifference: Test run time: 1 ms
+
+2024-12-04 06:28:07.9670 | INFO | MathFunctionsTestAutomation.Tests.OpenForBusinessTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 06:28:07.9672 | INFO | MathFunctionsTestAutomation.Tests.OpenForBusinessTests | Starting Test: OpenForBusiness
+2024-12-04 06:28:07.9687 | INFO | MathFunctionsTestAutomation.Tests.OpenForBusinessTests | Test OpenForBusiness: Passed
+2024-12-04 06:28:07.9687 | INFO | MathFunctionsTestAutomation.Tests.OpenForBusinessTests | Test OpenForBusiness: Test run time: 1 ms
+
+2024-12-04 06:29:22.1473 | INFO | MathFunctionsTestAutomation.Tests.OpenForBusinessTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 06:29:22.1534 | INFO | MathFunctionsTestAutomation.Tests.OpenForBusinessTests | Starting Test: OpenForBusiness
+2024-12-04 06:29:22.1943 | INFO | MathFunctionsTestAutomation.Tests.OpenForBusinessTests | Test OpenForBusiness: Passed
+2024-12-04 06:29:22.1943 | INFO | MathFunctionsTestAutomation.Tests.OpenForBusinessTests | Test OpenForBusiness: Test run time: 40 ms
+
+2024-12-04 06:29:37.3203 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 06:29:37.3284 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Starting Test: Add_ShouldReturnCorrectSum
+2024-12-04 06:29:37.3653 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Add_ShouldReturnCorrectSum: Passed.
+2024-12-04 06:29:37.3653 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Add_ShouldReturnCorrectSum: Test run time: 36 ms
+
+2024-12-04 06:29:37.3666 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 06:29:37.3671 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Starting Test: Divide_ShouldReturnCorrectDividend
+2024-12-04 06:29:37.3732 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Divide_ShouldReturnCorrectDividend: Passed.
+2024-12-04 06:29:37.3732 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Divide_ShouldReturnCorrectDividend: Test run time: 6 ms
+
+2024-12-04 06:29:37.3732 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 06:29:37.3742 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Starting Test: Multiply_ShouldReturnCorrectProduct
+2024-12-04 06:29:37.3758 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Multiply_ShouldReturnCorrectProduct: Passed.
+2024-12-04 06:29:37.3758 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Multiply_ShouldReturnCorrectProduct: Test run time: 1 ms
+
+2024-12-04 06:29:37.3758 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 06:29:37.3764 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Starting Test: Subtract_ShouldReturnCorrectDifference
+2024-12-04 06:29:37.3776 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Subtract_ShouldReturnCorrectDifference: Passed.
+2024-12-04 06:29:37.3776 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Subtract_ShouldReturnCorrectDifference: Test run time: 1 ms
+
+2024-12-04 09:04:48.3279 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 09:04:48.3357 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Starting Test: Add_ShouldReturnCorrectSum
+2024-12-04 09:04:48.4440 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Add_ShouldReturnCorrectSum: Passed.
+2024-12-04 09:04:48.4440 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Add_ShouldReturnCorrectSum: Test run time: 108 ms
+
+2024-12-04 09:04:48.4454 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 09:04:48.4454 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Starting Test: Divide_ShouldReturnCorrectDividend
+2024-12-04 09:04:48.4537 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Divide_ShouldReturnCorrectDividend: Passed.
+2024-12-04 09:04:48.4537 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Divide_ShouldReturnCorrectDividend: Test run time: 7 ms
+
+2024-12-04 09:04:48.4537 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 09:04:48.4547 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Starting Test: Multiply_ShouldReturnCorrectProduct
+2024-12-04 09:04:48.4569 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Multiply_ShouldReturnCorrectProduct: Passed.
+2024-12-04 09:04:48.4569 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Multiply_ShouldReturnCorrectProduct: Test run time: 2 ms
+
+2024-12-04 09:04:48.4569 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 09:04:48.4577 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Starting Test: Subtract_ShouldReturnCorrectDifference
+2024-12-04 09:04:48.4598 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Subtract_ShouldReturnCorrectDifference: Passed.
+2024-12-04 09:04:48.4598 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Subtract_ShouldReturnCorrectDifference: Test run time: 2 ms
+
+2024-12-04 09:05:36.2234 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 09:05:36.2319 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Starting Test: Add_ShouldReturnCorrectSum
+2024-12-04 09:05:36.3865 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Add_ShouldReturnCorrectSum: Passed.
+2024-12-04 09:05:36.3868 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Add_ShouldReturnCorrectSum: Test run time: 154 ms
+
+2024-12-04 09:05:36.3880 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 09:05:36.3886 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Starting Test: Divide_ShouldReturnCorrectDividend
+2024-12-04 09:05:36.4026 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Divide_ShouldReturnCorrectDividend: Passed.
+2024-12-04 09:05:36.4026 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Divide_ShouldReturnCorrectDividend: Test run time: 14 ms
+
+2024-12-04 09:05:36.4026 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 09:05:36.4026 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Starting Test: Multiply_ShouldReturnCorrectProduct
+2024-12-04 09:05:36.4065 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Multiply_ShouldReturnCorrectProduct: Passed.
+2024-12-04 09:05:36.4067 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Multiply_ShouldReturnCorrectProduct: Test run time: 3 ms
+
+2024-12-04 09:05:36.4067 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 09:05:36.4080 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Starting Test: Power_ShouldReturnCorrectResult
+2024-12-04 09:05:36.4114 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Power_ShouldReturnCorrectResult: Passed.
+2024-12-04 09:05:36.4114 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Power_ShouldReturnCorrectResult: Test run time: 3 ms
+
+2024-12-04 09:05:36.4116 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 09:05:36.4129 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Starting Test: Subtract_ShouldReturnCorrectDifference
+2024-12-04 09:05:36.4156 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Subtract_ShouldReturnCorrectDifference: Passed.
+2024-12-04 09:05:36.4156 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Subtract_ShouldReturnCorrectDifference: Test run time: 2 ms
+
+2024-12-04 09:12:47.5087 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 09:12:47.5184 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Starting Test: Add_ShouldReturnCorrectSum
+2024-12-04 09:12:47.5641 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Add_ShouldReturnCorrectSum: Passed.
+2024-12-04 09:12:47.5641 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Add_ShouldReturnCorrectSum: Test run time: 45 ms
+
+2024-12-04 09:12:47.5657 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 09:12:47.5663 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Starting Test: Divide_ShouldReturnCorrectDividend
+2024-12-04 09:12:47.5761 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Divide_ShouldReturnCorrectDividend: Passed.
+2024-12-04 09:12:47.5761 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Divide_ShouldReturnCorrectDividend: Test run time: 9 ms
+
+2024-12-04 09:12:47.5761 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 09:12:47.5773 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Starting Test: Multiply_ShouldReturnCorrectProduct
+2024-12-04 09:12:47.6058 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Multiply_ShouldReturnCorrectProduct: Passed.
+2024-12-04 09:12:47.6058 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Multiply_ShouldReturnCorrectProduct: Test run time: 28 ms
+
+2024-12-04 09:12:47.6058 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 09:12:47.6066 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Starting Test: Power_ShouldReturnCorrectResult
+2024-12-04 09:12:47.6354 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Power_ShouldReturnCorrectResult: Passed.
+2024-12-04 09:12:47.6354 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Power_ShouldReturnCorrectResult: Test run time: 28 ms
+
+2024-12-04 09:12:47.6354 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 09:12:47.6363 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Starting Test: Subtract_ShouldReturnCorrectDifference
+2024-12-04 09:12:47.6376 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Subtract_ShouldReturnCorrectDifference: Passed.
+2024-12-04 09:12:47.6376 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Subtract_ShouldReturnCorrectDifference: Test run time: 1 ms
+
+2024-12-04 09:30:11.3111 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 09:30:11.3192 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Starting Test: Add_ShouldReturnCorrectSum
+2024-12-04 09:30:11.4811 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Add_ShouldReturnCorrectSum: Passed.
+2024-12-04 09:30:11.4813 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Add_ShouldReturnCorrectSum: Test run time: 161 ms
+
+2024-12-04 09:30:11.4825 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 09:30:11.4825 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Starting Test: Divide_ShouldReturnCorrectDividend
+2024-12-04 09:30:11.4896 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Divide_ShouldReturnCorrectDividend: Passed.
+2024-12-04 09:30:11.4896 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Divide_ShouldReturnCorrectDividend: Test run time: 6 ms
+
+2024-12-04 09:30:11.4896 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 09:30:11.4896 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Starting Test: Multiply_ShouldReturnCorrectProduct
+2024-12-04 09:30:11.5188 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Multiply_ShouldReturnCorrectProduct: Passed.
+2024-12-04 09:30:11.5188 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Multiply_ShouldReturnCorrectProduct: Test run time: 28 ms
+
+2024-12-04 09:30:11.5188 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 09:30:11.5196 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Starting Test: Power_404BadRequest
+2024-12-04 09:30:11.5232 | ERROR | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Power_404BadRequest: Unexpected Exception: RestAssured.Response.Exceptions.ResponseVerificationException: Expected status code to be 404, but was 400
+   at RestAssured.Response.VerifiableResponse.FailVerification(String exceptionMessage)
+   at RestAssured.Response.VerifiableResponse.StatusCode(Int32 expectedStatusCode)
+   at MathFunctionsTestAutomation.Tests.MathControllerTests.Power_404BadRequest() in /Users/dahr4171/Data/Source/DotNetCore/MathFunctions/TestAutomation/MathFunctionsTestAutomation/MathFunctionsTestAutomation/Tests/MathControllerTests.cs:line 314
+2024-12-04 09:30:11.5232 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Power_404BadRequest: Failed.
+
+2024-12-04 09:30:11.5244 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 09:30:11.5244 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Starting Test: Power_ShouldReturnCorrectResult
+2024-12-04 09:30:11.5260 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Power_ShouldReturnCorrectResult: Passed.
+2024-12-04 09:30:11.5260 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Power_ShouldReturnCorrectResult: Test run time: 1 ms
+
+2024-12-04 09:30:11.5260 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 09:30:11.5266 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Starting Test: Subtract_ShouldReturnCorrectDifference
+2024-12-04 09:30:11.5274 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Subtract_ShouldReturnCorrectDifference: Passed.
+2024-12-04 09:30:11.5274 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Subtract_ShouldReturnCorrectDifference: Test run time: 0 ms
+
+2024-12-04 09:30:11.5289 | INFO | MathFunctionsTestAutomation.Tests.OpenForBusinessTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 09:30:11.5289 | INFO | MathFunctionsTestAutomation.Tests.OpenForBusinessTests | Starting Test: OpenForBusiness
+2024-12-04 09:30:11.5315 | INFO | MathFunctionsTestAutomation.Tests.OpenForBusinessTests | Test OpenForBusiness: Passed
+2024-12-04 09:30:11.5315 | INFO | MathFunctionsTestAutomation.Tests.OpenForBusinessTests | Test OpenForBusiness: Test run time: 2 ms
+
+2024-12-04 09:31:42.1536 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 09:31:42.1619 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Starting Test: Add_ShouldReturnCorrectSum
+2024-12-04 09:31:42.2301 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Add_ShouldReturnCorrectSum: Passed.
+2024-12-04 09:31:42.2301 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Add_ShouldReturnCorrectSum: Test run time: 68 ms
+
+2024-12-04 09:31:42.2315 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 09:31:42.2321 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Starting Test: Divide_ShouldReturnCorrectDividend
+2024-12-04 09:31:42.2382 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Divide_ShouldReturnCorrectDividend: Passed.
+2024-12-04 09:31:42.2382 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Divide_ShouldReturnCorrectDividend: Test run time: 6 ms
+
+2024-12-04 09:31:42.2382 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 09:31:42.2390 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Starting Test: Multiply_ShouldReturnCorrectProduct
+2024-12-04 09:31:42.2401 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Multiply_ShouldReturnCorrectProduct: Passed.
+2024-12-04 09:31:42.2401 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Multiply_ShouldReturnCorrectProduct: Test run time: 1 ms
+
+2024-12-04 09:31:42.2401 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 09:31:42.2409 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Starting Test: Power_400BadRequest
+2024-12-04 09:31:42.2451 | ERROR | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Power_400BadRequest: Unexpected Exception: RestAssured.Response.Exceptions.ResponseVerificationException: Expected status code to be 404, but was 400
+   at RestAssured.Response.VerifiableResponse.FailVerification(String exceptionMessage)
+   at RestAssured.Response.VerifiableResponse.StatusCode(Int32 expectedStatusCode)
+   at MathFunctionsTestAutomation.Tests.MathControllerTests.Power_400BadRequest() in /Users/dahr4171/Data/Source/DotNetCore/MathFunctions/TestAutomation/MathFunctionsTestAutomation/MathFunctionsTestAutomation/Tests/MathControllerTests.cs:line 314
+2024-12-04 09:31:42.2451 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Power_400BadRequest: Failed.
+
+2024-12-04 09:31:42.2463 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 09:31:42.2469 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Starting Test: Power_ShouldReturnCorrectResult
+2024-12-04 09:31:42.2669 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Power_ShouldReturnCorrectResult: Passed.
+2024-12-04 09:31:42.2669 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Power_ShouldReturnCorrectResult: Test run time: 20 ms
+
+2024-12-04 09:31:42.2669 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 09:31:42.2669 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Starting Test: Subtract_ShouldReturnCorrectDifference
+2024-12-04 09:31:42.2687 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Subtract_ShouldReturnCorrectDifference: Passed.
+2024-12-04 09:31:42.2703 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Subtract_ShouldReturnCorrectDifference: Test run time: 1 ms
+
+2024-12-04 09:31:42.2715 | INFO | MathFunctionsTestAutomation.Tests.OpenForBusinessTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 09:31:42.2717 | INFO | MathFunctionsTestAutomation.Tests.OpenForBusinessTests | Starting Test: OpenForBusiness
+2024-12-04 09:31:42.2717 | INFO | MathFunctionsTestAutomation.Tests.OpenForBusinessTests | Test OpenForBusiness: Passed
+2024-12-04 09:31:42.2717 | INFO | MathFunctionsTestAutomation.Tests.OpenForBusinessTests | Test OpenForBusiness: Test run time: 0 ms
+
+2024-12-04 09:32:11.9999 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 09:32:12.0080 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Starting Test: Add_ShouldReturnCorrectSum
+2024-12-04 09:32:12.1577 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Add_ShouldReturnCorrectSum: Passed.
+2024-12-04 09:32:12.1579 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Add_ShouldReturnCorrectSum: Test run time: 149 ms
+
+2024-12-04 09:32:12.1591 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 09:32:12.1591 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Starting Test: Divide_ShouldReturnCorrectDividend
+2024-12-04 09:32:12.1683 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Divide_ShouldReturnCorrectDividend: Passed.
+2024-12-04 09:32:12.1683 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Divide_ShouldReturnCorrectDividend: Test run time: 8 ms
+
+2024-12-04 09:32:12.1683 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 09:32:12.1691 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Starting Test: Multiply_ShouldReturnCorrectProduct
+2024-12-04 09:32:12.1705 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Multiply_ShouldReturnCorrectProduct: Passed.
+2024-12-04 09:32:12.1705 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Multiply_ShouldReturnCorrectProduct: Test run time: 1 ms
+
+2024-12-04 09:32:12.1705 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 09:32:12.1712 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Starting Test: Power_400BadRequest
+2024-12-04 09:32:12.1756 | ERROR | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Power_400BadRequest: Unexpected Exception: Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: T. Path '', line 0, position 0.
+   at Newtonsoft.Json.JsonTextReader.ParseValue()
+   at Newtonsoft.Json.JsonTextReader.Read()
+   at Newtonsoft.Json.JsonReader.ReadAndMoveToContent()
+   at Newtonsoft.Json.JsonReader.ReadForType(JsonContract contract, Boolean hasConverter)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.Deserialize(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value)
+   at MathFunctionsTestAutomation.Tests.MathControllerTests.Power_400BadRequest() in /Users/dahr4171/Data/Source/DotNetCore/MathFunctions/TestAutomation/MathFunctionsTestAutomation/MathFunctionsTestAutomation/Tests/MathControllerTests.cs:line 325
+2024-12-04 09:32:12.1756 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Power_400BadRequest: Failed.
+
+2024-12-04 09:32:12.1768 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 09:32:12.1768 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Starting Test: Power_ShouldReturnCorrectResult
+2024-12-04 09:32:12.1789 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Power_ShouldReturnCorrectResult: Passed.
+2024-12-04 09:32:12.1789 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Power_ShouldReturnCorrectResult: Test run time: 1 ms
+
+2024-12-04 09:32:12.1789 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 09:32:12.1789 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Starting Test: Subtract_ShouldReturnCorrectDifference
+2024-12-04 09:32:12.1805 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Subtract_ShouldReturnCorrectDifference: Passed.
+2024-12-04 09:32:12.1805 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Subtract_ShouldReturnCorrectDifference: Test run time: 0 ms
+
+2024-12-04 09:32:12.1817 | INFO | MathFunctionsTestAutomation.Tests.OpenForBusinessTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 09:32:12.1819 | INFO | MathFunctionsTestAutomation.Tests.OpenForBusinessTests | Starting Test: OpenForBusiness
+2024-12-04 09:32:12.1831 | INFO | MathFunctionsTestAutomation.Tests.OpenForBusinessTests | Test OpenForBusiness: Passed
+2024-12-04 09:32:12.1831 | INFO | MathFunctionsTestAutomation.Tests.OpenForBusinessTests | Test OpenForBusiness: Test run time: 1 ms
+
+2024-12-04 09:32:51.2668 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 09:33:00.5702 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Starting Test: Add_ShouldReturnCorrectSum
+2024-12-04 09:33:00.6874 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Add_ShouldReturnCorrectSum: Passed.
+2024-12-04 09:33:00.6874 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Add_ShouldReturnCorrectSum: Test run time: 117 ms
+
+2024-12-04 09:33:00.6892 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 09:33:00.6892 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Starting Test: Divide_ShouldReturnCorrectDividend
+2024-12-04 09:33:00.6968 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Divide_ShouldReturnCorrectDividend: Passed.
+2024-12-04 09:33:00.6968 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Divide_ShouldReturnCorrectDividend: Test run time: 6 ms
+
+2024-12-04 09:33:00.6968 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 09:33:00.6976 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Starting Test: Multiply_ShouldReturnCorrectProduct
+2024-12-04 09:33:00.7206 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Multiply_ShouldReturnCorrectProduct: Passed.
+2024-12-04 09:33:00.7206 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Multiply_ShouldReturnCorrectProduct: Test run time: 23 ms
+
+2024-12-04 09:33:00.7206 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 09:33:00.7216 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Starting Test: Power_400BadRequest
+2024-12-04 09:33:49.0747 | ERROR | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Power_400BadRequest: Unexpected Exception: Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: T. Path '', line 0, position 0.
+   at Newtonsoft.Json.JsonTextReader.ParseValue()
+   at Newtonsoft.Json.JsonTextReader.Read()
+   at Newtonsoft.Json.JsonReader.ReadAndMoveToContent()
+   at Newtonsoft.Json.JsonReader.ReadForType(JsonContract contract, Boolean hasConverter)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.Deserialize(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value)
+   at MathFunctionsTestAutomation.Tests.MathControllerTests.Power_400BadRequest() in /Users/dahr4171/Data/Source/DotNetCore/MathFunctions/TestAutomation/MathFunctionsTestAutomation/MathFunctionsTestAutomation/Tests/MathControllerTests.cs:line 325
+2024-12-04 09:33:49.0842 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Power_400BadRequest: Failed.
+
+2024-12-04 09:33:49.0873 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 09:33:49.0883 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Starting Test: Power_ShouldReturnCorrectResult
+2024-12-04 09:33:49.1504 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Power_ShouldReturnCorrectResult: Passed.
+2024-12-04 09:33:49.1504 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Power_ShouldReturnCorrectResult: Test run time: 62 ms
+
+2024-12-04 09:33:49.1504 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 09:33:49.1625 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Starting Test: Subtract_ShouldReturnCorrectDifference
+2024-12-04 09:33:49.2151 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Subtract_ShouldReturnCorrectDifference: Passed.
+2024-12-04 09:33:49.2151 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Subtract_ShouldReturnCorrectDifference: Test run time: 52 ms
+
+2024-12-04 09:34:06.4803 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 09:34:06.4967 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Starting Test: Add_ShouldReturnCorrectSum
+2024-12-04 09:34:06.5500 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Add_ShouldReturnCorrectSum: Passed.
+2024-12-04 09:34:06.5500 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Add_ShouldReturnCorrectSum: Test run time: 53 ms
+
+2024-12-04 09:34:06.5515 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 09:34:06.5515 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Starting Test: Divide_ShouldReturnCorrectDividend
+2024-12-04 09:34:06.5583 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Divide_ShouldReturnCorrectDividend: Passed.
+2024-12-04 09:34:06.5583 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Divide_ShouldReturnCorrectDividend: Test run time: 6 ms
+
+2024-12-04 09:34:06.5583 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 09:34:06.5583 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Starting Test: Multiply_ShouldReturnCorrectProduct
+2024-12-04 09:34:06.5601 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Multiply_ShouldReturnCorrectProduct: Passed.
+2024-12-04 09:34:06.5601 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Multiply_ShouldReturnCorrectProduct: Test run time: 1 ms
+
+2024-12-04 09:34:06.5601 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 09:34:06.5610 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Starting Test: Power_400BadRequest
+2024-12-04 09:36:07.6536 | ERROR | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Power_400BadRequest: Unexpected Exception: Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: T. Path '', line 0, position 0.
+   at Newtonsoft.Json.JsonTextReader.ParseValue()
+   at Newtonsoft.Json.JsonTextReader.Read()
+   at Newtonsoft.Json.JsonReader.ReadAndMoveToContent()
+   at Newtonsoft.Json.JsonReader.ReadForType(JsonContract contract, Boolean hasConverter)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.Deserialize(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value)
+   at MathFunctionsTestAutomation.Tests.MathControllerTests.Power_400BadRequest()
+2024-12-04 09:36:07.6631 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Power_400BadRequest: Failed.
+
+2024-12-04 09:36:07.6701 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 09:36:07.6709 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Starting Test: Power_ShouldReturnCorrectResult
+2024-12-04 09:36:07.6753 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Power_ShouldReturnCorrectResult: Passed.
+2024-12-04 09:36:07.6753 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Power_ShouldReturnCorrectResult: Test run time: 4 ms
+
+2024-12-04 09:36:07.6753 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 09:36:07.6762 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Starting Test: Subtract_ShouldReturnCorrectDifference
+2024-12-04 09:36:07.6777 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Subtract_ShouldReturnCorrectDifference: Passed.
+2024-12-04 09:36:07.6777 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Subtract_ShouldReturnCorrectDifference: Test run time: 1 ms
+
+2024-12-04 09:36:08.8547 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 09:36:08.8619 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Starting Test: Add_ShouldReturnCorrectSum
+2024-12-04 09:36:08.9058 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Add_ShouldReturnCorrectSum: Passed.
+2024-12-04 09:36:08.9060 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Add_ShouldReturnCorrectSum: Test run time: 43 ms
+
+2024-12-04 09:36:08.9071 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 09:36:08.9071 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Starting Test: Divide_ShouldReturnCorrectDividend
+2024-12-04 09:36:08.9142 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Divide_ShouldReturnCorrectDividend: Passed.
+2024-12-04 09:36:08.9142 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Divide_ShouldReturnCorrectDividend: Test run time: 6 ms
+
+2024-12-04 09:36:08.9142 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 09:36:08.9153 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Starting Test: Multiply_ShouldReturnCorrectProduct
+2024-12-04 09:36:08.9167 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Multiply_ShouldReturnCorrectProduct: Passed.
+2024-12-04 09:36:08.9167 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Multiply_ShouldReturnCorrectProduct: Test run time: 1 ms
+
+2024-12-04 09:36:08.9168 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 09:36:08.9168 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Starting Test: Power_400BadRequest
+2024-12-04 09:36:08.9187 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Power_400BadRequest: Passed.
+2024-12-04 09:36:08.9187 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Power_400BadRequest: Test run time: 1 ms
+
+2024-12-04 09:36:08.9188 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 09:36:08.9188 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Starting Test: Power_ShouldReturnCorrectResult
+2024-12-04 09:36:08.9202 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Power_ShouldReturnCorrectResult: Passed.
+2024-12-04 09:36:08.9202 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Power_ShouldReturnCorrectResult: Test run time: 0 ms
+
+2024-12-04 09:36:08.9202 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 09:36:08.9208 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Starting Test: Subtract_ShouldReturnCorrectDifference
+2024-12-04 09:36:08.9208 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Subtract_ShouldReturnCorrectDifference: Passed.
+2024-12-04 09:36:08.9208 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Subtract_ShouldReturnCorrectDifference: Test run time: 0 ms
+
+2024-12-04 09:36:24.8161 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 09:36:24.8297 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Starting Test: Add_ShouldReturnCorrectSum
+2024-12-04 09:36:24.8814 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Add_ShouldReturnCorrectSum: Passed.
+2024-12-04 09:36:24.8814 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Add_ShouldReturnCorrectSum: Test run time: 51 ms
+
+2024-12-04 09:36:24.8829 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 09:36:24.8829 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Starting Test: Divide_ShouldReturnCorrectDividend
+2024-12-04 09:36:24.8900 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Divide_ShouldReturnCorrectDividend: Passed.
+2024-12-04 09:36:24.8900 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Divide_ShouldReturnCorrectDividend: Test run time: 6 ms
+
+2024-12-04 09:36:24.8900 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 09:36:24.8900 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Starting Test: Multiply_ShouldReturnCorrectProduct
+2024-12-04 09:36:24.8916 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Multiply_ShouldReturnCorrectProduct: Passed.
+2024-12-04 09:36:24.8916 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Multiply_ShouldReturnCorrectProduct: Test run time: 1 ms
+
+2024-12-04 09:36:24.8916 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 09:36:24.8922 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Starting Test: Power_400BadRequest
+2024-12-04 09:37:14.7557 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Power_400BadRequest: Passed.
+2024-12-04 09:37:18.6563 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Power_400BadRequest: Test run time: 46423 ms
+
+2024-12-04 09:37:24.2349 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 09:37:24.2367 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Starting Test: Power_ShouldReturnCorrectResult
+2024-12-04 09:37:24.3091 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Power_ShouldReturnCorrectResult: Passed.
+2024-12-04 09:37:24.3091 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Power_ShouldReturnCorrectResult: Test run time: 72 ms
+
+2024-12-04 09:37:24.3091 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 09:37:24.3102 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Starting Test: Subtract_ShouldReturnCorrectDifference
+2024-12-04 09:37:24.3117 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Subtract_ShouldReturnCorrectDifference: Passed.
+2024-12-04 09:37:24.3117 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Subtract_ShouldReturnCorrectDifference: Test run time: 1 ms
+
+2024-12-04 12:21:51.5515 | INFO | MathFunctionsTestAutomation.Tests.MathAddEndpointTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 12:21:51.5600 | INFO | MathFunctionsTestAutomation.Tests.MathAddEndpointTests | Starting Test: Add_400InvalidJSON
+2024-12-04 12:21:51.6322 | ERROR | MathFunctionsTestAutomation.Tests.MathAddEndpointTests | Test Add_400InvalidJSON: Unexpected Exception: Unexpected character encountered while parsing value: T. Path '', line 0, position 0.
+2024-12-04 12:21:51.6323 | INFO | MathFunctionsTestAutomation.Tests.MathAddEndpointTests | Test Add_400InvalidJSON: Failed.
+2024-12-04 12:21:51.6366 | INFO | MathFunctionsTestAutomation.Tests.MathAddEndpointTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 12:21:51.6373 | INFO | MathFunctionsTestAutomation.Tests.MathAddEndpointTests | Starting Test: Add_ShouldReturnCorrectSum
+2024-12-04 12:21:51.6870 | INFO | MathFunctionsTestAutomation.Tests.MathAddEndpointTests | Test Add_ShouldReturnCorrectSum: Passed.
+2024-12-04 12:21:51.6873 | INFO | MathFunctionsTestAutomation.Tests.MathAddEndpointTests | Test Add_ShouldReturnCorrectSum: Test run time: 49 ms
+
+2024-12-04 12:22:22.8668 | INFO | MathFunctionsTestAutomation.Tests.MathAddEndpointTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 12:22:22.8804 | INFO | MathFunctionsTestAutomation.Tests.MathAddEndpointTests | Starting Test: Add_400InvalidJSON
+2024-12-04 12:23:04.4049 | ERROR | MathFunctionsTestAutomation.Tests.MathAddEndpointTests | Test Add_400InvalidJSON: Unexpected Exception: Unexpected character encountered while parsing value: T. Path '', line 0, position 0.
+2024-12-04 12:23:04.4168 | INFO | MathFunctionsTestAutomation.Tests.MathAddEndpointTests | Test Add_400InvalidJSON: Failed.
+2024-12-04 12:23:04.4277 | INFO | MathFunctionsTestAutomation.Tests.MathAddEndpointTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 12:23:04.4285 | INFO | MathFunctionsTestAutomation.Tests.MathAddEndpointTests | Starting Test: Add_ShouldReturnCorrectSum
+2024-12-04 12:23:04.4940 | INFO | MathFunctionsTestAutomation.Tests.MathAddEndpointTests | Test Add_ShouldReturnCorrectSum: Passed.
+2024-12-04 12:23:04.4940 | INFO | MathFunctionsTestAutomation.Tests.MathAddEndpointTests | Test Add_ShouldReturnCorrectSum: Test run time: 65 ms
+
+2024-12-04 12:23:21.5222 | INFO | MathFunctionsTestAutomation.Tests.MathAddEndpointTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 12:23:21.5324 | INFO | MathFunctionsTestAutomation.Tests.MathAddEndpointTests | Starting Test: Add_400InvalidJSON
+2024-12-04 12:23:35.8748 | INFO | MathFunctionsTestAutomation.Tests.MathAddEndpointTests | Test Add_400InvalidJSON: Passed.
+2024-12-04 12:23:35.8799 | INFO | MathFunctionsTestAutomation.Tests.MathAddEndpointTests | Test Add_400InvalidJSON: Test run time: 11524 ms
+
+2024-12-04 12:23:35.8925 | INFO | MathFunctionsTestAutomation.Tests.MathAddEndpointTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 12:23:35.8995 | INFO | MathFunctionsTestAutomation.Tests.MathAddEndpointTests | Starting Test: Add_ShouldReturnCorrectSum
+2024-12-04 12:23:35.9427 | INFO | MathFunctionsTestAutomation.Tests.MathAddEndpointTests | Test Add_ShouldReturnCorrectSum: Passed.
+2024-12-04 12:23:35.9427 | INFO | MathFunctionsTestAutomation.Tests.MathAddEndpointTests | Test Add_ShouldReturnCorrectSum: Test run time: 43 ms
+
+2024-12-04 12:27:44.0738 | INFO | MathFunctionsTestAutomation.Tests.MathAddEndpointTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 12:27:44.0842 | INFO | MathFunctionsTestAutomation.Tests.MathAddEndpointTests | Starting Test: Add_400InvalidJSON
+2024-12-04 12:28:45.1777 | INFO | MathFunctionsTestAutomation.Tests.MathAddEndpointTests | Test Add_400InvalidJSON: Passed.
+2024-12-04 12:28:45.2285 | INFO | MathFunctionsTestAutomation.Tests.MathAddEndpointTests | Test Add_400InvalidJSON: Test run time: 61093 ms
+
+2024-12-04 12:28:45.2384 | INFO | MathFunctionsTestAutomation.Tests.MathAddEndpointTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 12:28:45.2443 | INFO | MathFunctionsTestAutomation.Tests.MathAddEndpointTests | Starting Test: Add_ShouldReturnCorrectSum
+2024-12-04 12:29:34.6047 | INFO | MathFunctionsTestAutomation.Tests.MathAddEndpointTests | Test Add_ShouldReturnCorrectSum: Passed.
+2024-12-04 12:29:34.6056 | INFO | MathFunctionsTestAutomation.Tests.MathAddEndpointTests | Test Add_ShouldReturnCorrectSum: Test run time: 49360 ms
+
+2024-12-04 12:29:36.1797 | INFO | MathFunctionsTestAutomation.Tests.MathAddEndpointTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 12:29:36.1911 | INFO | MathFunctionsTestAutomation.Tests.MathAddEndpointTests | Starting Test: Add_400InvalidJSON
+2024-12-04 16:17:05.5579 | INFO | MathFunctionsTestAutomation.Tests.MathAddEndpointTests | Test Add_400InvalidJSON: Failed.
+2024-12-04 16:17:05.5593 | INFO | MathFunctionsTestAutomation.Tests.MathAddEndpointTests | Test Add_400InvalidJSON: Failed.
+2024-12-04 16:17:05.5632 | INFO | MathFunctionsTestAutomation.Tests.MathAddEndpointTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 16:17:05.5656 | INFO | MathFunctionsTestAutomation.Tests.MathAddEndpointTests | Starting Test: Add_400InvalidJSON
+2024-12-04 16:17:07.4780 | INFO | MathFunctionsTestAutomation.Tests.MathAddEndpointTests | Test Add_400InvalidJSON: Passed.
+2024-12-04 16:17:07.4792 | INFO | MathFunctionsTestAutomation.Tests.MathAddEndpointTests | Test Add_400InvalidJSON: Test run time: 1912 ms
+
+2024-12-04 16:17:07.4798 | INFO | MathFunctionsTestAutomation.Tests.MathAddEndpointTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 16:17:07.4934 | INFO | MathFunctionsTestAutomation.Tests.MathAddEndpointTests | Starting Test: Add_ShouldReturnCorrectSum
+2024-12-04 16:17:07.5555 | INFO | MathFunctionsTestAutomation.Tests.MathAddEndpointTests | Test Add_ShouldReturnCorrectSum: Passed.
+2024-12-04 16:17:07.5555 | INFO | MathFunctionsTestAutomation.Tests.MathAddEndpointTests | Test Add_ShouldReturnCorrectSum: Test run time: 62 ms
+
+rectSum
+2024-12-04 14:37:03.8308 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Add_ShouldReturnCorrectSum: Passed.
+2024-12-04 14:37:03.8308 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Add_ShouldReturnCorrectSum: Test run time: 52 ms
+
+2024-12-04 14:37:03.8308 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 14:37:03.8319 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Starting Test: Divide_ShouldReturnCorrectDividend
+2024-12-04 14:37:03.8381 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Divide_ShouldReturnCorrectDividend: Passed.
+2024-12-04 14:37:03.8381 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Divide_ShouldReturnCorrectDividend: Test run time: 6 ms
+
+2024-12-04 14:37:03.8381 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 14:37:03.8391 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Starting Test: Multiply_ShouldReturnCorrectProduct
+2024-12-04 14:37:03.8408 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Multiply_ShouldReturnCorrectProduct: Passed.
+2024-12-04 14:37:03.8408 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Multiply_ShouldReturnCorrectProduct: Test run time: 1 ms
+
+2024-12-04 14:37:03.8408 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 14:37:03.8417 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Starting Test: Power_ShouldReturnCorrectResult
+2024-12-04 14:37:03.8441 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Power_ShouldReturnCorrectResult: Passed.
+2024-12-04 14:37:03.8441 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Power_ShouldReturnCorrectResult: Test run time: 2 ms
+
+2024-12-04 14:37:03.8441 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 14:37:03.8450 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Starting Test: Subtract_ShouldReturnCorrectDifference
+2024-12-04 14:37:03.8461 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Subtract_ShouldReturnCorrectDifference: Passed.
+2024-12-04 14:37:03.8461 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Subtract_ShouldReturnCorrectDifference: Test run time: 1 ms
+
+2024-12-04 16:17:10.6806 | INFO | MathFunctionsTestAutomation.Tests.MathAddEndpointTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 16:17:10.6906 | INFO | MathFunctionsTestAutomation.Tests.MathAddEndpointTests | Starting Test: Add_400InvalidJSON
+2024-12-04 16:17:13.8777 | INFO | MathFunctionsTestAutomation.Tests.MathAddEndpointTests | Test Add_400InvalidJSON: Failed.
+2024-12-04 16:17:13.8777 | INFO | MathFunctionsTestAutomation.Tests.MathAddEndpointTests | Test Add_400InvalidJSON: Failed.
+2024-12-04 16:17:13.8798 | INFO | MathFunctionsTestAutomation.Tests.MathAddEndpointTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 16:17:13.8798 | INFO | MathFunctionsTestAutomation.Tests.MathAddEndpointTests | Starting Test: Add_400InvalidJSON
+2024-12-04 16:17:14.9066 | INFO | MathFunctionsTestAutomation.Tests.MathAddEndpointTests | Test Add_400InvalidJSON: Passed.
+2024-12-04 16:17:14.9073 | INFO | MathFunctionsTestAutomation.Tests.MathAddEndpointTests | Test Add_400InvalidJSON: Test run time: 1026 ms
+
+2024-12-04 16:17:14.9073 | INFO | MathFunctionsTestAutomation.Tests.MathAddEndpointTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 16:17:14.9369 | INFO | MathFunctionsTestAutomation.Tests.MathAddEndpointTests | Starting Test: Add_ShouldReturnCorrectSum
+2024-12-04 16:17:14.9672 | INFO | MathFunctionsTestAutomation.Tests.MathAddEndpointTests | Test Add_ShouldReturnCorrectSum: Passed.
+2024-12-04 16:17:14.9672 | INFO | MathFunctionsTestAutomation.Tests.MathAddEndpointTests | Test Add_ShouldReturnCorrectSum: Test run time: 30 ms
+
+2024-12-04 16:18:07.8058 | INFO | MathFunctionsTestAutomation.Tests.MathAddEndpointTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 16:18:07.8157 | INFO | MathFunctionsTestAutomation.Tests.MathAddEndpointTests | Starting Test: Add_400InvalidJSON
+2024-12-04 16:23:58.6269 | INFO | MathFunctionsTestAutomation.Tests.MathAddEndpointTests | Test Add_400InvalidJSON: Failed.
+2024-12-04 16:23:58.6301 | INFO | MathFunctionsTestAutomation.Tests.MathAddEndpointTests | Test Add_400InvalidJSON: Failed.
+2024-12-04 16:23:58.6328 | INFO | MathFunctionsTestAutomation.Tests.MathAddEndpointTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 16:23:58.6328 | INFO | MathFunctionsTestAutomation.Tests.MathAddEndpointTests | Starting Test: Add_400InvalidJSON
+2024-12-04 16:23:58.6878 | INFO | MathFunctionsTestAutomation.Tests.MathAddEndpointTests | Test Add_400InvalidJSON: Passed.
+2024-12-04 16:23:58.6878 | INFO | MathFunctionsTestAutomation.Tests.MathAddEndpointTests | Test Add_400InvalidJSON: Test run time: 54 ms
+
+2024-12-04 16:23:58.6889 | INFO | MathFunctionsTestAutomation.Tests.MathAddEndpointTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 16:23:58.7060 | INFO | MathFunctionsTestAutomation.Tests.MathAddEndpointTests | Starting Test: Add_ShouldReturnCorrectSum
+2024-12-04 16:23:58.7826 | INFO | MathFunctionsTestAutomation.Tests.MathAddEndpointTests | Test Add_ShouldReturnCorrectSum: Passed.
+2024-12-04 16:23:58.7826 | INFO | MathFunctionsTestAutomation.Tests.MathAddEndpointTests | Test Add_ShouldReturnCorrectSum: Test run time: 76 ms
+
+2024-12-04 16:24:00.6169 | INFO | MathFunctionsTestAutomation.Tests.MathAddEndpointTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 16:24:00.6269 | INFO | MathFunctionsTestAutomation.Tests.MathAddEndpointTests | Starting Test: Add_400InvalidJSON
+2024-12-04 16:24:19.3098 | INFO | MathFunctionsTestAutomation.Tests.MathAddEndpointTests | Test Add_400InvalidJSON: Passed.
+2024-12-04 16:24:19.3115 | INFO | MathFunctionsTestAutomation.Tests.MathAddEndpointTests | Test Add_400InvalidJSON: Test run time: 18682 ms
+
+2024-12-04 16:24:19.3167 | INFO | MathFunctionsTestAutomation.Tests.MathAddEndpointTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 16:24:19.3181 | INFO | MathFunctionsTestAutomation.Tests.MathAddEndpointTests | Starting Test: Add_400InvalidJSON
+2024-12-04 16:24:19.3320 | INFO | MathFunctionsTestAutomation.Tests.MathAddEndpointTests | Test Add_400InvalidJSON: Passed.
+2024-12-04 16:24:19.3320 | INFO | MathFunctionsTestAutomation.Tests.MathAddEndpointTests | Test Add_400InvalidJSON: Test run time: 13 ms
+
+2024-12-04 16:24:19.3320 | INFO | MathFunctionsTestAutomation.Tests.MathAddEndpointTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 16:24:19.3398 | INFO | MathFunctionsTestAutomation.Tests.MathAddEndpointTests | Starting Test: Add_ShouldReturnCorrectSum
+2024-12-04 16:24:19.3778 | INFO | MathFunctionsTestAutomation.Tests.MathAddEndpointTests | Test Add_ShouldReturnCorrectSum: Passed.
+2024-12-04 16:24:19.3779 | INFO | MathFunctionsTestAutomation.Tests.MathAddEndpointTests | Test Add_ShouldReturnCorrectSum: Test run time: 38 ms
+
+2024-12-04 16:24:30.0901 | INFO | MathFunctionsTestAutomation.Tests.MathAddEndpointTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 16:24:30.0959 | INFO | MathFunctionsTestAutomation.Tests.MathAddEndpointTests | Starting Test: Add_400InvalidJSON
+2024-12-04 16:24:30.1119 | INFO | MathFunctionsTestAutomation.Tests.MathAddEndpointTests | Test Add_400InvalidJSON: Passed.
+2024-12-04 16:24:30.1121 | INFO | MathFunctionsTestAutomation.Tests.MathAddEndpointTests | Test Add_400InvalidJSON: Test run time: 15 ms
+
+2024-12-04 16:24:30.1131 | INFO | MathFunctionsTestAutomation.Tests.MathAddEndpointTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 16:24:30.1131 | INFO | MathFunctionsTestAutomation.Tests.MathAddEndpointTests | Starting Test: Add_400InvalidJSON
+2024-12-04 16:24:30.1172 | INFO | MathFunctionsTestAutomation.Tests.MathAddEndpointTests | Test Add_400InvalidJSON: Passed.
+2024-12-04 16:24:30.1172 | INFO | MathFunctionsTestAutomation.Tests.MathAddEndpointTests | Test Add_400InvalidJSON: Test run time: 3 ms
+
+2024-12-04 16:24:30.1172 | INFO | MathFunctionsTestAutomation.Tests.MathAddEndpointTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 16:24:30.1200 | INFO | MathFunctionsTestAutomation.Tests.MathAddEndpointTests | Starting Test: Add_ShouldReturnCorrectSum
+2024-12-04 16:24:30.1411 | INFO | MathFunctionsTestAutomation.Tests.MathAddEndpointTests | Test Add_ShouldReturnCorrectSum: Passed.
+2024-12-04 16:24:30.1411 | INFO | MathFunctionsTestAutomation.Tests.MathAddEndpointTests | Test Add_ShouldReturnCorrectSum: Test run time: 21 ms
+
+2024-12-04 16:25:18.8170 | INFO | MathFunctionsTestAutomation.Tests.MathAddEndpointTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 16:25:18.8254 | INFO | MathFunctionsTestAutomation.Tests.MathAddEndpointTests | Starting Test: Add_ShouldReturnCorrectSum
+2024-12-04 16:25:18.8655 | INFO | MathFunctionsTestAutomation.Tests.MathAddEndpointTests | Test Add_ShouldReturnCorrectSum: Passed.
+2024-12-04 16:25:18.8655 | INFO | MathFunctionsTestAutomation.Tests.MathAddEndpointTests | Test Add_ShouldReturnCorrectSum: Test run time: 40 ms
+
+2024-12-04 16:25:18.8670 | INFO | MathFunctionsTestAutomation.Tests.MathAddEndpointTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 16:25:18.8673 | INFO | MathFunctionsTestAutomation.Tests.MathAddEndpointTests | Starting Test: Add_400InvalidJSON
+2024-12-04 16:25:18.8695 | INFO | MathFunctionsTestAutomation.Tests.MathAddEndpointTests | Test Add_400InvalidJSON: Passed.
+2024-12-04 16:25:18.8695 | INFO | MathFunctionsTestAutomation.Tests.MathAddEndpointTests | Test Add_400InvalidJSON: Test run time: 2 ms
+
+2024-12-04 16:25:18.8695 | INFO | MathFunctionsTestAutomation.Tests.MathAddEndpointTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 16:25:18.8702 | INFO | MathFunctionsTestAutomation.Tests.MathAddEndpointTests | Starting Test: Add_400InvalidJSON
+2024-12-04 16:25:18.8736 | INFO | MathFunctionsTestAutomation.Tests.MathAddEndpointTests | Test Add_400InvalidJSON: Passed.
+2024-12-04 16:25:18.8736 | INFO | MathFunctionsTestAutomation.Tests.MathAddEndpointTests | Test Add_400InvalidJSON: Test run time: 3 ms
+
+2024-12-04 16:25:18.8747 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 16:25:18.8752 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Starting Test: Add_ShouldReturnCorrectSum
+2024-12-04 16:25:18.8774 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Add_ShouldReturnCorrectSum: Passed.
+2024-12-04 16:25:18.8774 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Add_ShouldReturnCorrectSum: Test run time: 2 ms
+
+2024-12-04 16:25:18.8774 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 16:25:18.8774 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Starting Test: Divide_ShouldReturnCorrectDividend
+2024-12-04 16:25:18.8836 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Divide_ShouldReturnCorrectDividend: Passed.
+2024-12-04 16:25:18.8836 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Divide_ShouldReturnCorrectDividend: Test run time: 5 ms
+
+2024-12-04 16:25:18.8836 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 16:25:18.8842 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Starting Test: Multiply_ShouldReturnCorrectProduct
+2024-12-04 16:25:18.8860 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Multiply_ShouldReturnCorrectProduct: Passed.
+2024-12-04 16:25:18.8860 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Multiply_ShouldReturnCorrectProduct: Test run time: 1 ms
+
+2024-12-04 16:25:18.8860 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 16:25:18.8866 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Starting Test: Power_400BadRequest
+2024-12-04 16:25:18.8899 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Power_400BadRequest: Passed.
+2024-12-04 16:25:18.8899 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Power_400BadRequest: Test run time: 3 ms
+
+2024-12-04 16:25:18.8899 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 16:25:18.8908 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Starting Test: Power_ShouldReturnCorrectResult
+2024-12-04 16:25:18.8919 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Power_ShouldReturnCorrectResult: Passed.
+2024-12-04 16:25:18.8919 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Power_ShouldReturnCorrectResult: Test run time: 1 ms
+
+2024-12-04 16:25:18.8919 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 16:25:18.8926 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Starting Test: Subtract_ShouldReturnCorrectDifference
+2024-12-04 16:25:18.8942 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Subtract_ShouldReturnCorrectDifference: Passed.
+2024-12-04 16:25:18.8942 | INFO | MathFunctionsTestAutomation.Tests.MathControllerTests | Test Subtract_ShouldReturnCorrectDifference: Test run time: 1 ms
+
+2024-12-04 16:25:18.8942 | INFO | MathFunctionsTestAutomation.Tests.OpenForBusinessTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 16:25:18.8942 | INFO | MathFunctionsTestAutomation.Tests.OpenForBusinessTests | Starting Test: OpenForBusiness
+2024-12-04 16:25:18.8958 | INFO | MathFunctionsTestAutomation.Tests.OpenForBusinessTests | Test OpenForBusiness: Passed
+2024-12-04 16:25:18.8958 | INFO | MathFunctionsTestAutomation.Tests.OpenForBusinessTests | Test OpenForBusiness: Test run time: 1 ms
+
+2024-12-04 16:36:44.9339 | INFO | MathFunctionsTestAutomation.Tests.MathSubtractEndpointTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 16:36:44.9403 | INFO | MathFunctionsTestAutomation.Tests.MathSubtractEndpointTests | Starting Test: Subtract_400_GarbageInput
+2024-12-04 16:36:44.9875 | INFO | MathFunctionsTestAutomation.Tests.MathSubtractEndpointTests | Test Subtract_400_GarbageInput: Passed.
+2024-12-04 16:36:44.9877 | INFO | MathFunctionsTestAutomation.Tests.MathSubtractEndpointTests | Test Subtract_400_GarbageInput: Test run time: 47 ms
+
+2024-12-04 16:36:44.9889 | INFO | MathFunctionsTestAutomation.Tests.MathSubtractEndpointTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 16:36:44.9889 | INFO | MathFunctionsTestAutomation.Tests.MathSubtractEndpointTests | Starting Test: Subtract_400_InvalidJSON
+2024-12-04 16:36:44.9927 | INFO | MathFunctionsTestAutomation.Tests.MathSubtractEndpointTests | Test Subtract_400_InvalidJSON: Passed.
+2024-12-04 16:36:44.9927 | INFO | MathFunctionsTestAutomation.Tests.MathSubtractEndpointTests | Test Subtract_400_InvalidJSON: Test run time: 3 ms
+
+2024-12-04 16:36:44.9927 | INFO | MathFunctionsTestAutomation.Tests.MathSubtractEndpointTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 16:36:44.9962 | INFO | MathFunctionsTestAutomation.Tests.MathSubtractEndpointTests | Starting Test: Subtract_ShouldReturnCorrectDifference
+2024-12-04 16:36:45.0189 | INFO | MathFunctionsTestAutomation.Tests.MathSubtractEndpointTests | Test Subtract_ShouldReturnCorrectDifference: Passed.
+2024-12-04 16:36:45.0189 | INFO | MathFunctionsTestAutomation.Tests.MathSubtractEndpointTests | Test Subtract_ShouldReturnCorrectDifference: Test run time: 22 ms
+
+2024-12-04 16:42:45.1674 | INFO | MathFunctionsTestAutomation.Tests.MathMultiplyEndpointTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 16:42:45.1733 | INFO | MathFunctionsTestAutomation.Tests.MathMultiplyEndpointTests | Starting Test: Subtract_400_GarbageInput
+2024-12-04 16:42:45.2202 | INFO | MathFunctionsTestAutomation.Tests.MathMultiplyEndpointTests | Test Multiply_400_GarbageInput: Passed.
+2024-12-04 16:42:45.2202 | INFO | MathFunctionsTestAutomation.Tests.MathMultiplyEndpointTests | Test Multiply_400_GarbageInput: Test run time: 46 ms
+
+2024-12-04 16:42:45.2216 | INFO | MathFunctionsTestAutomation.Tests.MathMultiplyEndpointTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 16:42:45.2220 | INFO | MathFunctionsTestAutomation.Tests.MathMultiplyEndpointTests | Starting Test: Multiply_400_InvalidJSON
+2024-12-04 16:42:45.2253 | INFO | MathFunctionsTestAutomation.Tests.MathMultiplyEndpointTests | Test Multiply_400_InvalidJSON: Passed.
+2024-12-04 16:42:45.2253 | INFO | MathFunctionsTestAutomation.Tests.MathMultiplyEndpointTests | Test Multiply_400_InvalidJSON: Test run time: 3 ms
+
+2024-12-04 16:42:45.2253 | INFO | MathFunctionsTestAutomation.Tests.MathMultiplyEndpointTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 16:42:45.2279 | INFO | MathFunctionsTestAutomation.Tests.MathMultiplyEndpointTests | Starting Test: Multiply_ShouldReturnCorrectProduct
+2024-12-04 16:42:45.2487 | INFO | MathFunctionsTestAutomation.Tests.MathMultiplyEndpointTests | Test Multiply_ShouldReturnCorrectProduct: Passed.
+2024-12-04 16:42:45.2487 | INFO | MathFunctionsTestAutomation.Tests.MathMultiplyEndpointTests | Test Multiply_ShouldReturnCorrectProduct: Test run time: 20 ms
+
+2024-12-04 16:46:56.4846 | INFO | MathFunctionsTestAutomation.Tests.MathDivideEndpointTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 16:46:56.4916 | INFO | MathFunctionsTestAutomation.Tests.MathDivideEndpointTests | Starting Test: Divide_400_GarbageInput
+2024-12-04 16:46:56.6161 | INFO | MathFunctionsTestAutomation.Tests.MathDivideEndpointTests | Test Divide_400_GarbageInput: Passed.
+2024-12-04 16:46:56.6165 | INFO | MathFunctionsTestAutomation.Tests.MathDivideEndpointTests | Test Divide_400_GarbageInput: Test run time: 124 ms
+
+2024-12-04 16:46:56.6183 | INFO | MathFunctionsTestAutomation.Tests.MathDivideEndpointTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 16:46:56.6214 | INFO | MathFunctionsTestAutomation.Tests.MathDivideEndpointTests | Starting Test: Divide_ShouldReturnCorrectDividend
+2024-12-04 16:46:56.6472 | INFO | MathFunctionsTestAutomation.Tests.MathDivideEndpointTests | Test Divide_ShouldReturnCorrectDividend: Passed.
+2024-12-04 16:46:56.6472 | INFO | MathFunctionsTestAutomation.Tests.MathDivideEndpointTests | Test Divide_ShouldReturnCorrectDividend: Test run time: 25 ms
+
+2024-12-04 16:48:30.2738 | INFO | MathFunctionsTestAutomation.Tests.MathDivideEndpointTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 16:48:30.2808 | INFO | MathFunctionsTestAutomation.Tests.MathDivideEndpointTests | Starting Test: Divide_400_GarbageInput
+2024-12-04 16:48:30.3321 | INFO | MathFunctionsTestAutomation.Tests.MathDivideEndpointTests | Test Divide_400_GarbageInput: Passed.
+2024-12-04 16:48:30.3321 | INFO | MathFunctionsTestAutomation.Tests.MathDivideEndpointTests | Test Divide_400_GarbageInput: Test run time: 51 ms
+
+2024-12-04 16:48:30.3336 | INFO | MathFunctionsTestAutomation.Tests.MathDivideEndpointTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 16:48:30.3339 | INFO | MathFunctionsTestAutomation.Tests.MathDivideEndpointTests | Starting Test: Divide_400_InvalidJSON
+2024-12-04 16:48:30.3376 | INFO | MathFunctionsTestAutomation.Tests.MathDivideEndpointTests | Test Divide_400_InvalidJSON: Passed.
+2024-12-04 16:48:30.3376 | INFO | MathFunctionsTestAutomation.Tests.MathDivideEndpointTests | Test Divide_400_InvalidJSON: Test run time: 3 ms
+
+2024-12-04 16:48:30.3376 | INFO | MathFunctionsTestAutomation.Tests.MathDivideEndpointTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 16:48:30.3403 | INFO | MathFunctionsTestAutomation.Tests.MathDivideEndpointTests | Starting Test: Divide_ShouldReturnCorrectDividend
+2024-12-04 16:48:30.3909 | INFO | MathFunctionsTestAutomation.Tests.MathDivideEndpointTests | Test Divide_ShouldReturnCorrectDividend: Passed.
+2024-12-04 16:48:30.3909 | INFO | MathFunctionsTestAutomation.Tests.MathDivideEndpointTests | Test Divide_ShouldReturnCorrectDividend: Test run time: 50 ms
+
+2024-12-04 16:54:45.6272 | INFO | MathFunctionsTestAutomation.Tests.MathPowerEndpointTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 16:54:45.6358 | INFO | MathFunctionsTestAutomation.Tests.MathPowerEndpointTests | Starting Test: Power_ShouldReturnCorrectResult
+2024-12-04 16:54:45.7299 | INFO | MathFunctionsTestAutomation.Tests.MathPowerEndpointTests | Test Power_ShouldReturnCorrectResult: Passed.
+2024-12-04 16:54:45.7299 | INFO | MathFunctionsTestAutomation.Tests.MathPowerEndpointTests | Test Power_ShouldReturnCorrectResult: Test run time: 94 ms
+
+2024-12-04 16:54:45.7314 | INFO | MathFunctionsTestAutomation.Tests.MathPowerEndpointTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 16:54:45.7317 | INFO | MathFunctionsTestAutomation.Tests.MathPowerEndpointTests | Starting Test: Power_400BadRequest
+2024-12-04 16:54:45.7336 | INFO | MathFunctionsTestAutomation.Tests.MathPowerEndpointTests | Test Power_400BadRequest: Passed.
+2024-12-04 16:54:45.7336 | INFO | MathFunctionsTestAutomation.Tests.MathPowerEndpointTests | Test Power_400BadRequest: Test run time: 1 ms
+
+2024-12-04 16:54:45.7336 | INFO | MathFunctionsTestAutomation.Tests.MathPowerEndpointTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 16:54:45.7336 | INFO | MathFunctionsTestAutomation.Tests.MathPowerEndpointTests | Starting Test: Power_400_GarbageInput
+2024-12-04 16:54:45.7471 | INFO | MathFunctionsTestAutomation.Tests.MathPowerEndpointTests | Test Power_400_GarbageInput: Failed.
+2024-12-04 16:54:45.7471 | INFO | MathFunctionsTestAutomation.Tests.MathPowerEndpointTests | Test Power_400_GarbageInput: Failed.
+2024-12-04 16:54:45.7471 | INFO | MathFunctionsTestAutomation.Tests.MathPowerEndpointTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 16:54:45.7476 | INFO | MathFunctionsTestAutomation.Tests.MathPowerEndpointTests | Starting Test: Power_400_InvalidJSON
+2024-12-04 16:54:45.7500 | INFO | MathFunctionsTestAutomation.Tests.MathPowerEndpointTests | Test Power_400_InvalidJSON: Failed.
+2024-12-04 16:54:45.7500 | INFO | MathFunctionsTestAutomation.Tests.MathPowerEndpointTests | Test Power_400_InvalidJSON: Failed.
+2024-12-04 16:56:48.0369 | INFO | MathFunctionsTestAutomation.Tests.MathPowerEndpointTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 16:56:48.0511 | INFO | MathFunctionsTestAutomation.Tests.MathPowerEndpointTests | Starting Test: Power_ShouldReturnCorrectResult
+2024-12-04 16:56:48.1417 | INFO | MathFunctionsTestAutomation.Tests.MathPowerEndpointTests | Test Power_ShouldReturnCorrectResult: Passed.
+2024-12-04 16:56:48.1417 | INFO | MathFunctionsTestAutomation.Tests.MathPowerEndpointTests | Test Power_ShouldReturnCorrectResult: Test run time: 90 ms
+
+2024-12-04 16:56:48.1432 | INFO | MathFunctionsTestAutomation.Tests.MathPowerEndpointTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 16:56:48.1436 | INFO | MathFunctionsTestAutomation.Tests.MathPowerEndpointTests | Starting Test: Power_400BadRequest
+2024-12-04 16:56:48.1474 | INFO | MathFunctionsTestAutomation.Tests.MathPowerEndpointTests | Test Power_400BadRequest: Passed.
+2024-12-04 16:56:48.1474 | INFO | MathFunctionsTestAutomation.Tests.MathPowerEndpointTests | Test Power_400BadRequest: Test run time: 3 ms
+
+2024-12-04 16:56:48.1474 | INFO | MathFunctionsTestAutomation.Tests.MathPowerEndpointTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 16:56:48.1480 | INFO | MathFunctionsTestAutomation.Tests.MathPowerEndpointTests | Starting Test: Power_400_GarbageInput
+2024-12-04 16:56:48.1811 | INFO | MathFunctionsTestAutomation.Tests.MathPowerEndpointTests | Test Power_400_GarbageInput: Failed.
+2024-12-04 16:56:48.1811 | INFO | MathFunctionsTestAutomation.Tests.MathPowerEndpointTests | Test Power_400_GarbageInput: Failed.
+2024-12-04 16:56:48.1811 | INFO | MathFunctionsTestAutomation.Tests.MathPowerEndpointTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 16:56:48.1819 | INFO | MathFunctionsTestAutomation.Tests.MathPowerEndpointTests | Starting Test: Power_400_InvalidJSON
+2024-12-04 16:59:27.4828 | INFO | MathFunctionsTestAutomation.Tests.MathPowerEndpointTests | Test Power_400_InvalidJSON: Failed.
+2024-12-04 16:59:27.4828 | INFO | MathFunctionsTestAutomation.Tests.MathPowerEndpointTests | Test Power_400_InvalidJSON: Failed.
+2024-12-04 16:59:28.9678 | INFO | MathFunctionsTestAutomation.Tests.MathPowerEndpointTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 16:59:28.9803 | INFO | MathFunctionsTestAutomation.Tests.MathPowerEndpointTests | Starting Test: Power_ShouldReturnCorrectResult
+2024-12-04 17:00:14.2604 | INFO | MathFunctionsTestAutomation.Tests.MathPowerEndpointTests | Test Power_ShouldReturnCorrectResult: Passed.
+2024-12-04 17:00:14.2616 | INFO | MathFunctionsTestAutomation.Tests.MathPowerEndpointTests | Test Power_ShouldReturnCorrectResult: Test run time: 45280 ms
+
+2024-12-04 17:00:14.2632 | INFO | MathFunctionsTestAutomation.Tests.MathPowerEndpointTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 17:00:14.2637 | INFO | MathFunctionsTestAutomation.Tests.MathPowerEndpointTests | Starting Test: Power_400BadRequest
+2024-12-04 17:00:17.0619 | INFO | MathFunctionsTestAutomation.Tests.MathPowerEndpointTests | Test Power_400BadRequest: Passed.
+2024-12-04 17:00:17.0619 | INFO | MathFunctionsTestAutomation.Tests.MathPowerEndpointTests | Test Power_400BadRequest: Test run time: 2798 ms
+
+2024-12-04 17:00:17.0619 | INFO | MathFunctionsTestAutomation.Tests.MathPowerEndpointTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 17:00:17.0637 | INFO | MathFunctionsTestAutomation.Tests.MathPowerEndpointTests | Starting Test: Power_400_GarbageInput
+2024-12-04 17:00:17.1190 | INFO | MathFunctionsTestAutomation.Tests.MathPowerEndpointTests | Test Power_400_GarbageInput: Failed.
+2024-12-04 17:00:17.1190 | INFO | MathFunctionsTestAutomation.Tests.MathPowerEndpointTests | Test Power_400_GarbageInput: Failed.
+2024-12-04 17:00:17.1194 | INFO | MathFunctionsTestAutomation.Tests.MathPowerEndpointTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 17:00:17.1194 | INFO | MathFunctionsTestAutomation.Tests.MathPowerEndpointTests | Starting Test: Power_400_InvalidJSON
+2024-12-04 17:01:08.4122 | INFO | MathFunctionsTestAutomation.Tests.MathPowerEndpointTests | Test Power_400_InvalidJSON: Passed.
+2024-12-04 17:01:08.4132 | INFO | MathFunctionsTestAutomation.Tests.MathPowerEndpointTests | Test Power_400_InvalidJSON: Test run time: 51292 ms
+
+2024-12-04 17:02:05.0783 | INFO | MathFunctionsTestAutomation.Tests.MathPowerEndpointTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 17:02:05.0863 | INFO | MathFunctionsTestAutomation.Tests.MathPowerEndpointTests | Starting Test: Power_ShouldReturnCorrectResult
+2024-12-04 17:02:05.1523 | INFO | MathFunctionsTestAutomation.Tests.MathPowerEndpointTests | Test Power_ShouldReturnCorrectResult: Passed.
+2024-12-04 17:02:05.1523 | INFO | MathFunctionsTestAutomation.Tests.MathPowerEndpointTests | Test Power_ShouldReturnCorrectResult: Test run time: 65 ms
+
+2024-12-04 17:02:05.1536 | INFO | MathFunctionsTestAutomation.Tests.MathPowerEndpointTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 17:02:05.1539 | INFO | MathFunctionsTestAutomation.Tests.MathPowerEndpointTests | Starting Test: Power_400BadRequest
+2024-12-04 17:02:05.1555 | INFO | MathFunctionsTestAutomation.Tests.MathPowerEndpointTests | Test Power_400BadRequest: Passed.
+2024-12-04 17:02:05.1555 | INFO | MathFunctionsTestAutomation.Tests.MathPowerEndpointTests | Test Power_400BadRequest: Test run time: 1 ms
+
+2024-12-04 17:02:05.1555 | INFO | MathFunctionsTestAutomation.Tests.MathPowerEndpointTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 17:02:05.1559 | INFO | MathFunctionsTestAutomation.Tests.MathPowerEndpointTests | Starting Test: Power_400_GarbageInput
+2024-12-04 17:02:05.1684 | INFO | MathFunctionsTestAutomation.Tests.MathPowerEndpointTests | Test Power_400_GarbageInput: Failed.
+2024-12-04 17:02:05.1684 | INFO | MathFunctionsTestAutomation.Tests.MathPowerEndpointTests | Test Power_400_GarbageInput: Failed.
+2024-12-04 17:02:05.1684 | INFO | MathFunctionsTestAutomation.Tests.MathPowerEndpointTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 17:02:05.1688 | INFO | MathFunctionsTestAutomation.Tests.MathPowerEndpointTests | Starting Test: Power_400_InvalidJSON
+2024-12-04 17:02:05.1702 | INFO | MathFunctionsTestAutomation.Tests.MathPowerEndpointTests | Test Power_400_InvalidJSON: Passed.
+2024-12-04 17:02:05.1702 | INFO | MathFunctionsTestAutomation.Tests.MathPowerEndpointTests | Test Power_400_InvalidJSON: Test run time: 1 ms
+
+2024-12-04 17:03:15.7221 | INFO | MathFunctionsTestAutomation.Tests.MathPowerEndpointTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 17:03:15.7302 | INFO | MathFunctionsTestAutomation.Tests.MathPowerEndpointTests | Starting Test: Power_ShouldReturnCorrectResult
+2024-12-04 17:03:15.7673 | INFO | MathFunctionsTestAutomation.Tests.MathPowerEndpointTests | Test Power_ShouldReturnCorrectResult: Passed.
+2024-12-04 17:03:15.7675 | INFO | MathFunctionsTestAutomation.Tests.MathPowerEndpointTests | Test Power_ShouldReturnCorrectResult: Test run time: 37 ms
+
+2024-12-04 17:03:15.7685 | INFO | MathFunctionsTestAutomation.Tests.MathPowerEndpointTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 17:03:15.7685 | INFO | MathFunctionsTestAutomation.Tests.MathPowerEndpointTests | Starting Test: Power_400BadRequest
+2024-12-04 17:03:15.7722 | INFO | MathFunctionsTestAutomation.Tests.MathPowerEndpointTests | Test Power_400BadRequest: Passed.
+2024-12-04 17:03:15.7722 | INFO | MathFunctionsTestAutomation.Tests.MathPowerEndpointTests | Test Power_400BadRequest: Test run time: 3 ms
+
+2024-12-04 17:03:15.7723 | INFO | MathFunctionsTestAutomation.Tests.MathPowerEndpointTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 17:03:15.7723 | INFO | MathFunctionsTestAutomation.Tests.MathPowerEndpointTests | Starting Test: Power_400_GarbageInput
+2024-12-04 17:03:15.7742 | INFO | MathFunctionsTestAutomation.Tests.MathPowerEndpointTests | Test Power_400_GarbageInput: Passed.
+2024-12-04 17:03:15.7742 | INFO | MathFunctionsTestAutomation.Tests.MathPowerEndpointTests | Test Power_400_GarbageInput: Test run time: 1 ms
+
+2024-12-04 17:03:15.7742 | INFO | MathFunctionsTestAutomation.Tests.MathPowerEndpointTests | Testing Base URL: http://localhost:7000/api
+2024-12-04 17:03:15.7745 | INFO | MathFunctionsTestAutomation.Tests.MathPowerEndpointTests | Starting Test: Power_400_InvalidJSON
+2024-12-04 17:03:15.7754 | INFO | MathFunctionsTestAutomation.Tests.MathPowerEndpointTests | Test Power_400_InvalidJSON: Passed.
+2024-12-04 17:03:15.7754 | INFO | MathFunctionsTestAutomation.Tests.MathPowerEndpointTests | Test Power_400_InvalidJSON: Test run time: 0 ms
+

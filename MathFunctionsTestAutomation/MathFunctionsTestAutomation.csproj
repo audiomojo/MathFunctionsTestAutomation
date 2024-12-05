@@ -21,6 +21,9 @@
 
   <ItemGroup>
     <Using Include="NUnit.Framework" />
+    <None Update="NLog.config">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
   </ItemGroup>
 
 </Project>

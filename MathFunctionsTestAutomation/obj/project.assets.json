@@ -1372,19 +1372,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/rich/.nuget/packages/": {}
+    "/Users/dahr4171/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/rich/Data/Source Code/Personal/DotNetCore/MathFunctions/Automation/MathFunctionsTestAutomation/MathFunctionsTestAutomation.csproj",
+      "projectUniqueName": "/Users/dahr4171/Data/Source/DotNetCore/MathFunctions/TestAutomation/MathFunctionsTestAutomation/MathFunctionsTestAutomation/MathFunctionsTestAutomation.csproj",
       "projectName": "MathFunctionsTestAutomation",
-      "projectPath": "/Users/rich/Data/Source Code/Personal/DotNetCore/MathFunctions/Automation/MathFunctionsTestAutomation/MathFunctionsTestAutomation.csproj",
-      "packagesPath": "/Users/rich/.nuget/packages/",
-      "outputPath": "/Users/rich/Data/Source Code/Personal/DotNetCore/MathFunctions/Automation/MathFunctionsTestAutomation/obj/",
+      "projectPath": "/Users/dahr4171/Data/Source/DotNetCore/MathFunctions/TestAutomation/MathFunctionsTestAutomation/MathFunctionsTestAutomation/MathFunctionsTestAutomation.csproj",
+      "packagesPath": "/Users/dahr4171/.nuget/packages/",
+      "outputPath": "/Users/dahr4171/Data/Source/DotNetCore/MathFunctions/TestAutomation/MathFunctionsTestAutomation/MathFunctionsTestAutomation/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/rich/.nuget/NuGet/NuGet.Config"
+        "/Users/dahr4171/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
