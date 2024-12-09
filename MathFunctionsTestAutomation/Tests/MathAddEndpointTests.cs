@@ -5,164 +5,52 @@ using NLog;
 using static RestAssured.Dsl;
 using Microsoft.Extensions.Logging.Configuration;
 using System.Diagnostics;
+using MathFunctionsTestAutomation.Helpers;
 
 namespace MathFunctionsTestAutomation.Tests
 {
     public class MathAddEndpointTests
     {
-        private static readonly Logger Logger = LogManager.GetCurrentClassLogger();
         string BaseUrl = "http://localhost:7000/api";
     
         [SetUp]
         public void Setup()
         {
-            Logger.Info("Testing Base URL: " + BaseUrl);
         }
-    
+
         [Test]
         [Category("P0")]
         public async Task Add_200_ShouldReturnCorrectSum()
         {
-            var stopwatch = Stopwatch.StartNew();
-            Logger.Info("Starting Test: Add_ShouldReturnCorrectSum");
-            bool testPassed = true;
-
-            var requestBody = new
+            var requestBody = new { numbers = new[] { 1, 2, 3, 4 } };
+            await TestHelper.ExecutePostTest("Add_200_ShouldReturnCorrectSum", BaseUrl, "math/add", requestBody, 200, responseContent =>
             {
-                numbers = new[] { 1, 2, 3, 4 }
-            };
-
-            try {
-                var responseContent = await SendPostRequest($"{BaseUrl}/math/add", requestBody, 200);
                 var responseBody = JsonConvert.DeserializeObject<dynamic>(responseContent);
-                if (responseBody == null)
-                {
-                    Logger.Error($"Expected responseBody but responseBody was null.");
-                    Assert.Fail("responseBody is null");
-                } else {
-                    Assert.That((int)responseBody.result, Is.EqualTo(10));
-                }
-
-            } catch(AssertionException) {
-                Logger.Info("Test Add_ShouldReturnCorrectSum: Failed.");
-                testPassed = false;
-            } catch(Exception exception) {
-                Logger.Error("Test Add_ShouldReturnCorrectSum: Unexpected Exception: " + exception.Message.ToString());
-                testPassed = false;
-                throw;
-            } finally {
-                stopwatch.Stop();
-                if (testPassed)
-                {
-                    Logger.Info("Test Add_ShouldReturnCorrectSum: Passed.");
-                    var elapsedMilliseconds = stopwatch.ElapsedMilliseconds;
-                    Logger.Info($"Test Add_ShouldReturnCorrectSum: Test run time: {elapsedMilliseconds} ms\n");
-                } else {
-                    Logger.Info("Test Add_ShouldReturnCorrectSum: Failed.");
-                }   
-
-            }
+                Assert.That(responseBody, Is.Not.Null, "Expected responseBody but responseBody was null.");
+                Assert.That((int)responseBody.result, Is.EqualTo(10));
+            });
         }
 
         [Test]
         [Category("P1")]
         public async Task Add_400_InvalidJSON()
         {
-            var stopwatch = Stopwatch.StartNew();
-            Logger.Info("Starting Test: Add_400InvalidJSON");
-            bool testPassed = true;
-
-            var requestBody = new
+            var requestBody = new { hello = "there" };
+            await TestHelper.ExecutePostTest("Add_400_InvalidJSON", BaseUrl, "math/add", requestBody, 400, responseContent =>
             {
-                hello = "there"
-            };
-
-            try {
-                var responseContent = await SendPostRequest($"{BaseUrl}/math/add", requestBody, 400);
-
-                if (responseContent == null)
-                {
-                    Logger.Error($"Expected responseBody but responseBody was null.");
-                    Assert.Fail("responseBody is null");
-                } else {
-                    Assert.That(responseContent, Is.EqualTo("The numbers list cannot be empty."));
-                }
-
-            } catch(AssertionException) {
-                Logger.Info("Test Add_400InvalidJSON: Failed.");
-                testPassed = false;
-            } catch(Exception exception) {
-                Logger.Error("Test Add_400InvalidJSON: Unexpected Exception: " + exception.Message.ToString());
-                testPassed = false;
-                throw;
-            } finally {
-                stopwatch.Stop();
-                if (testPassed)
-                {
-                    Logger.Info("Test Add_400InvalidJSON: Passed.");
-                    var elapsedMilliseconds = stopwatch.ElapsedMilliseconds;
-                    Logger.Info($"Test Add_400InvalidJSON: Test run time: {elapsedMilliseconds} ms\n");
-                } else {
-                    Logger.Info("Test Add_400InvalidJSON: Failed.");
-                }   
-            }
+                Assert.That(responseContent, Is.EqualTo("The numbers list cannot be empty."));
+            });
         }
 
         [Test]
         [Category("P2")]
         public async Task Add_400_GarbageInput()
         {
-            var stopwatch = Stopwatch.StartNew();
-            Logger.Info("Starting Test: Add_400InvalidJSON");
-            bool testPassed = true;
-
-            String requestBody = "This is garbage input";
-
-            try {
-                var responseContent = await SendPostRequest($"{BaseUrl}/math/add", requestBody, 400);
-
-                if (responseContent == null)
-                {
-                    Logger.Error($"Expected responseBody but responseBody was null.");
-                    Assert.Fail("responseBody is null");
-                } else {
-                    Assert.That(responseContent, Does.Contain("The JSON value could not be converted to MathFunctions.Models.MathRequest."));
-                }
-
-            } catch(AssertionException) {
-                Logger.Info("Test Add_400InvalidJSON: Failed.");
-                testPassed = false;
-            } catch(Exception exception) {
-                Logger.Error("Test Add_400InvalidJSON: Unexpected Exception: " + exception.Message.ToString());
-                testPassed = false;
-                throw;
-            } finally {
-                stopwatch.Stop();
-                if (testPassed)
-                {
-                    Logger.Info("Test Add_400InvalidJSON: Passed.");
-                    var elapsedMilliseconds = stopwatch.ElapsedMilliseconds;
-                    Logger.Info($"Test Add_400InvalidJSON: Test run time: {elapsedMilliseconds} ms\n");
-                } else {
-                    Logger.Info("Test Add_400InvalidJSON: Failed.");
-                }   
-            }
+            string requestBody = "This is garbage input";
+            await TestHelper.ExecutePostTest("Add_400_GarbageInput", BaseUrl, "math/add", requestBody, 400, responseContent =>
+            {
+                Assert.That(responseContent, Does.Contain("The JSON value could not be converted to MathFunctions.Models.MathRequest."));
+            });
         }
-
-        private async Task<String> SendPostRequest(string url, object requestBody, int expectedHTTPResponseCode)
-        {
-            var response = Given()
-                .ContentType("application/json")
-                .Body(JsonConvert.SerializeObject(requestBody))
-                .When()
-                .Post(url)
-                .Then()
-                .StatusCode(expectedHTTPResponseCode)
-                .Extract()
-                .Response();
-
-                var responseContent = await response.Content.ReadAsStringAsync();
-                return responseContent;
-        }
-   }
+    }
 }
